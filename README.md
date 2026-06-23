@@ -287,4 +287,4 @@ MIT — Use, adapte, compartilhe.
 
 ## 👤 Autor
 
-Construído por um QA Engineer que acredita que qualidade deve ser proativa, orientada por dados e automatizada. Estas skills representam soluções reais para desafios reais de qualidade em um time gerenciando 30+ sprints de um produto SaaS enterprise complexo.
+Construído por um [Admir de Almeida Junior](https://www.linkedin.com/in/admirjunior/) que acredita que qualidade deve ser proativa, orientada por dados e automatizada. Estas skills representam soluções reais para desafios reais de qualidade em um time gerenciando 30+ sprints de um produto SaaS enterprise complexo.
