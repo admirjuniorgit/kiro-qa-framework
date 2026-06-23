@@ -1,0 +1,13 @@
+# Generated reports (each user generates their own)
+.kiro/skills/*/reports/*.html
+
+# MCP settings (contains tokens)
+.kiro/settings/mcp.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
